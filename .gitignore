@@ -1,0 +1,7 @@
+# Ignorar ambientes virtuais
+venv/
+.venv/
+.env
+
+# Diretório de cache
+__pycache__/
